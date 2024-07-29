@@ -23,6 +23,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalGopan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
+### 💼 Featured Projects
+
+- [**Project Name**](link-to-repo): Brief description of the project, highlighting technologies used or the problem it solves.
+- [**Another Project**](link-to-repo): Another brief description, focusing on your role and any unique challenges.
+
+... (add more projects as needed)
+
 
 ## 🌐 Socials:
 
