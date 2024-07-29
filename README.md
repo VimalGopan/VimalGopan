@@ -34,6 +34,11 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quote">
+</div>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VimalGopan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
