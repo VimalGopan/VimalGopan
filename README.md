@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vimal Gopan</h1>
-<h3 align="center">A Data Science enthusiast from India</h3>
+<h1 align="center">👋 Hello, I'm Vimal Gopan!</h1>
+<h3 align="center">I'm a Data Scientist and Electronics Engineering graduate currently pursuing a second degree in Data Science and Applications from IIT Madras. Passionate about coding, data insights, and continuous learning.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=VimalGopan&icon=7&color=11)](https://visitcount.itsvg.in)
 
