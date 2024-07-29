@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/digital-skola-bertalenta-digital-data-enthusiast-data-science-data-engineer-gif-21582984" alt="Cool GIF" width="100%" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNqZWVxdzR3cWQ4aXMzM2xpOHE4dm16a3kxbzdubnhxYzZja256YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" alt="Cool GIF" width="100%" />
 </div>
 
 
