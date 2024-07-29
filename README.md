@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vimal Gopan</h1>
 <h3 align="center">A Data Science enthusiast from India</h3>
 
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="(https://github-profile-trophy.vercel.app/?username=VimalGopan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="vimalgopan" /></a> </p>
-
-- 🔭 I’m currently working on **Django**
-
-- 🌱 I’m currently learning **Django, Data Science, ML & AI**
-
-- 📫 How to reach me **vimalgopan97@gmail.com**
-
 # 💫 About Me:
 🔭 I’m currently working on Django<br><br>🌱 I’m currently learning Django, Data Science, ML & AI<br><br>📫 How to reach me vimalgopan97@gmail.com
 
