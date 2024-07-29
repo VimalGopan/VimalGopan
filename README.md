@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vimal Gopan</h1>
 <h3 align="center">A Data Science enthusiast from India</h3>
 
+[![](https://visitcount.itsvg.in/api?id=VimalGopan&icon=7&color=11)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Django<br><br>🌱 I’m currently learning Django, Data Science, ML & AI<br><br>📫 How to reach me vimalgopan97@gmail.com
 
@@ -28,6 +30,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=VimalGopan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VimalGopan&icon=7&color=11)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
