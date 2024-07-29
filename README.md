@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Django<br><br>🌱 I’m currently learning Django, Data Science, ML & AI<br><br>📫 How to reach me vimalgopan97@gmail.com
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VimalGopan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalgopanmv) 
@@ -12,8 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VimalGopan&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VimalGopan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VimalGopan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ###✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
