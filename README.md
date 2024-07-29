@@ -5,7 +5,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VimalGopan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalgopan](https://github-profile-trophy.vercel.app/?username=VimalGopan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="vimalgopan" /></a> </p>
 
 - 🔭 I’m currently working on **Django**
 
