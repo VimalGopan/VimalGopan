@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cool GIF" width="100%" />
+</div>
+
+
 <h1 align="center">👋 Hello, I'm Vimal Gopan!</h1>
 <h3 align="center">I'm a Data Scientist and Electronics Engineering graduate currently pursuing a second degree in Data Science and Applications from IIT Madras. Passionate about coding, data insights, and continuous learning.</h3>
 
