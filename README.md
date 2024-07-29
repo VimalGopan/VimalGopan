@@ -7,7 +7,6 @@
 🔭 I’m currently working on Django<br><br>🌱 I’m currently learning Django, Data Science, ML & AI<br><br>📫 How to reach me vimalgopan97@gmail.com
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VimalGopan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VimalGopan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy"/>
