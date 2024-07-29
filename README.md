@@ -86,6 +86,10 @@
 
 
 ### 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=VimalGopan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Quote">
+</div>
 ![](https://github-contributor-stats.vercel.app/api?username=VimalGopan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
