@@ -2,6 +2,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNqZWVxdzR3cWQ4aXMzM2xpOHE4dm16a3kxbzdubnhxYzZja256YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" alt="Cool GIF" width="100%" />
 </div>
 
+<div align="center">
+  <iframe width="560" height="315" src="./vimalgopan/data.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 <h1 align="center">👋 Hello, I'm Vimal Gopan!</h1>
 <h3 align="center">I'm a Data Scientist and Electronics Engineering graduate currently pursuing a second degree in Data Science and Applications from IIT Madras. Passionate about coding, data insights, and continuous learning.</h3>
