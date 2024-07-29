@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cool GIF" width="100%" />
+  <img src="https://tenor.com/bCISO.gif" alt="Cool GIF" width="100%" />
 </div>
 
 
